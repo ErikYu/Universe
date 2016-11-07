@@ -1,0 +1,23 @@
+{
+  "name": "universe",
+  "version": "1.0.0",
+  "description": "My small project describing planets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Krizzu/Universe.git"
+  },
+  "author": "Krizzu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Krizzu/Universe/issues"
+  },
+  "homepage": "https://github.com/Krizzu/Universe#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
